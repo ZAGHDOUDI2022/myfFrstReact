@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  background-color: whitesmoke;
+  width: 100%;
+  height: 100%;
+  margin-top: 150px;
+}
+#intro-text {
+  margin-top: 20px;
+  
+}
+
+#authentification {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 80px;
+}
+
+
+
